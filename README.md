@@ -1,6 +1,6 @@
 # NSIS setup
 
-Bộ cài hỗ trợ cho NSIS.
+* Bộ cài hỗ trợ cho NSIS.
 
 ![GitHub language count](https://img.shields.io/github/languages/count/RageOfFire/NSIS-example)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RageOfFire/NSIS-example)
@@ -104,4 +104,4 @@ NSIS (Nullsoft Scriptable Install System) là một chương trình mã nguồn 
 
 ## Tác giả
 
-RageOfFire
+* [RageOfFire](https://github.com/RageOfFire)
