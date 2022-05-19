@@ -1,0 +1,3 @@
+Chứa file hình ảnh của bạn như
+.ico
+.bmp
